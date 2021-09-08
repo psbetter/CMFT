@@ -1,6 +1,6 @@
-## Paper AAAI2022
+<!-- ## Paper AAAI2022 -->
 
-## Contrastive Memory Feature Transfer for Non-shared-and-Imbalanced Unsupervised Domain Adaption
+<!-- ## Contrastive Memory Feature Transfer for Non-shared-and-Imbalanced Unsupervised Domain Adaption -->
 
 Following the 5 steps below to train CMFT
 
