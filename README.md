@@ -1,4 +1,4 @@
-## PaperID: 1247
+## Paper AAAI2022
 
 ## Contrastive Memory Feature Transfer for Non-shared-and-Imbalanced Unsupervised Domain Adaption
 
