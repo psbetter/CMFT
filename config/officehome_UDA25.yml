@@ -1,0 +1,16 @@
+seed: 2020
+setting: UDA
+dataset: office-home
+backbone: ResNet50
+bottleneck_dim: 256
+max_iter: 10000
+eval_interval: 500
+class_num: 25
+batch_size: 36
+k: 5
+temp: 0.05
+smooth: 0.1
+lam_con: 0.1
+lam_mim:
+  min: 0.05
+  max: 0.1
