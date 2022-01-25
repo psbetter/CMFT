@@ -26,7 +26,7 @@ Following the 5 steps below to train CMFT
    
    &emsp;&emsp;`python train.py --config ../config/officehome_UDA.yml --src_address ../data/officehome/Art_65.txt --tgt_address ../data/officehome/Clipart_65.txt --gpu_id 0`
    
-### 5. run '**CMFT-MC**' on NI-UDA
+### 5. run '**CMFT**' on NI-UDA
    &emsp;&emsp;`cd trainer/`
    
    &emsp;&emsp;`python train.py --config ../config/officehome_NIUDA.yml --src_address ../data/officehome/Art_small_25.txt --tgt_address ../data/officehome/Clipart_small_25.txt --src_ns_address ../data/officehome/Art_noshare_40.txt --gpu_id 0`
