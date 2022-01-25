@@ -19,7 +19,7 @@ Following the 5 steps below to train CMFT
    
 ### 3. replace the path in txt file which located in `./data/`
 
-### 4. run '**CMFT-C**' on UDA
+### 4. run '**CMFT**' on UDA
    &emsp;&emsp;Enter the following command or modify the parameter settings in `train.py` to run `train.py` directly
    
    &emsp;&emsp;`cd trainer/`
